@@ -1,0 +1,22 @@
+{
+  "core_values": [
+    {
+      "headline": "Whatever it takes!",
+      "description": "We are always on the go. We follow a can-do approach, taking responsibility for our milestones. Our teams are the sum of great minds coming together and commit to solve challenges that make the world a better place."
+    },
+    {
+      "headline": "We work together.",
+      "description": "One for all and all for one, embracing a culture of diversity and inclusion. We are Mensches, people of integrity and honor. We work hard but also play hard and support each other through open and honest feedback."
+    },
+    {
+      "headline": "We make an impact.",
+      "description": "We foster innovation and always ask why. We challenge ourselves and others to be the best versions they can be. We promote creative problem solving and we are proud that our product has features our employees started!"
+    },
+    {
+      "headline": "Passion is our fuel.",
+      "description": "We work with passion. We pursue growth and never stop learning. We love what we do and do what we love, that’s why we are always eager to improve and do better."
+    }
+  ],
+  "exclamation_marks_count": 2,
+  "total_values_extracted": 4
+}
