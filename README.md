@@ -8,7 +8,7 @@ Automated testing framework for TRG International website using Python, Playwrig
 
 ```bash
 # Clone or download the repository
-git clone https://github.com/pecimladen/trg-automation-tests.git
+git clone https://github.com/PeciMladen/trg-automation-tests.git
 cd trg-automation-tests
 
 # Create virtual environment
